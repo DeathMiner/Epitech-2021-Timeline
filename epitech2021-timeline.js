@@ -47,7 +47,7 @@ function drawChart() {
     [ 'B4 - Mathematics', '207demographie', sdate(07, 05, 2018), edate(20, 05, 2018)],
     [ 'B4 - Mathematics', '208chevillettes', sdate(14, 05, 2018), edate(27, 05, 2018)],
     [ 'B4 - Mathematics', '209sondage', sdate(21, 05, 2018), edate(03, 06, 2018)],
-    [ 'B4 - Shell Scripting ', 'ShellScrip Project', sdate(22, 01, 2018), edate(28, 01, 2018)],
+    [ 'B4 - Shell Scripting ', 'ShellScript Project', sdate(22, 01, 2018), edate(28, 01, 2018)],
     [ 'B4 - Unix Programming - Memory', 'Malloc', sdate(22, 01, 2018), edate(11, 02, 2018)],
     [ 'B4 - Unix Programming - Memory', 'nm/objdump', sdate(12, 02, 2018), edate(25, 02, 2018)],
     [ 'B4 - Unix Programming - Concurrency', 'Philosophers', sdate(26, 02, 2018), edate(11, 03, 2018)],
