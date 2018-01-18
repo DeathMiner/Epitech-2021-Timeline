@@ -29,15 +29,16 @@ function drawChart() {
   dataTable.addColumn({ type: 'date', id: 'End' });
   dataTable.addRows([
     [ '\0', 'Now', new Date(today.getFullYear(), today.getMonth(), today.getDate()), new Date(today.getFullYear(), today.getMonth(), today.getDate()) ],
+    [ 'B4 - Shell Scripting ', 'ShellScript Project', sdate(22, 01, 2018), edate(28, 01, 2018)],
+    [ 'B4 - Unix Programming - Memory', 'Malloc', sdate(22, 01, 2018), edate(11, 02, 2018)],
+    [ 'B4 - Unix Programming - Memory', 'nm/objdump', sdate(12, 02, 2018), edate(25, 02, 2018)],
     [ 'B4 - C++(Part I)', 'NanoTekSpice', sdate(22, 01, 2018), edate(04, 03, 2018)],
     [ 'B4 - C++(Part I)', 'Aracade', sdate(05, 03, 2018), edate(08, 04, 2018)],
-    [ 'B4 - C++(Part II)', 'The Plazza', sdate(16, 04, 2018), edate(06, 05, 2018)],
-    [ 'B4 - C++(Part II)', 'Indie Dtudio', sdate(07, 05, 2018), edate(10, 06, 2018)],
-    [ 'B4 - Computer Numerical Analysis - Trading', 'Bollinger bands', sdate(05, 02, 2018), edate(18, 03, 2018)],
-    [ 'B4 - Computer Numerical Analysis - Trading', 'Trade', sdate(19, 03, 2018), edate(10, 06, 2018)],
     [ 'B4 - FR - Écrits professionnels', 'Mission délicate: recadrer un collègue', sdate(29, 01, 2018), edate(11, 02, 2018)],
     [ 'B4 - FR - Écrits professionnels', 'Diaporama pour décrocher 1 million de dollars', sdate(19, 02, 2018), edate(04, 03, 2018)],
     [ 'B4 - FR - Écrits professionnels', 'Rediger un bilan d\'expérience', sdate(05, 03, 2018), edate(18, 03, 2018)],
+    [ 'B4 - Computer Numerical Analysis - Trading', 'Bollinger bands', sdate(05, 02, 2018), edate(18, 03, 2018)],
+    [ 'B4 - Computer Numerical Analysis - Trading', 'Trade', sdate(19, 03, 2018), edate(10, 06, 2018)],
     [ 'B4 - Mathematics', '201yams', sdate(12, 02, 2018), edate(25, 02, 2018)],
     [ 'B4 - Mathematics', '202invendus', sdate(26, 02, 2018), edate(11, 03, 2018)],
     [ 'B4 - Mathematics', '203hotline', sdate(12, 03, 2018), edate(25, 03, 2018)],
@@ -47,17 +48,16 @@ function drawChart() {
     [ 'B4 - Mathematics', '207demographie', sdate(07, 05, 2018), edate(20, 05, 2018)],
     [ 'B4 - Mathematics', '208chevillettes', sdate(14, 05, 2018), edate(27, 05, 2018)],
     [ 'B4 - Mathematics', '209sondage', sdate(21, 05, 2018), edate(03, 06, 2018)],
-    [ 'B4 - Shell Scripting ', 'ShellScript Project', sdate(22, 01, 2018), edate(28, 01, 2018)],
-    [ 'B4 - Unix Programming - Memory', 'Malloc', sdate(22, 01, 2018), edate(11, 02, 2018)],
-    [ 'B4 - Unix Programming - Memory', 'nm/objdump', sdate(12, 02, 2018), edate(25, 02, 2018)],
+    [ 'B4 - x86-64 Assembly', 'MiniLibC', sdate(26, 02, 2018), edate(25, 03, 2018)],
     [ 'B4 - Unix Programming - Concurrency', 'Philosophers', sdate(26, 02, 2018), edate(11, 03, 2018)],
     [ 'B4 - Unix Programming - Concurrency', 'LemIPC', sdate(12, 03, 2018), edate(25, 03, 2018)],
     [ 'B4 - Unix Programming - Instrumentation', 'strace', sdate(26, 03, 2018), edate(08, 04, 2018)],
     [ 'B4 - Unix Programming - Instrumentation', 'ftrace', sdate(23, 04, 2018), edate(13, 05, 2018)],
+    [ 'B4 - C++(Part II)', 'The Plazza', sdate(16, 04, 2018), edate(06, 05, 2018)],
+    [ 'B4 - C++(Part II)', 'Indie Dtudio', sdate(07, 05, 2018), edate(10, 06, 2018)],
     [ 'B4 - Unix Programming - Network', 'MyFTP', sdate(16, 04, 2018), edate(29, 04, 2018)],
     [ 'B4 - Unix Programming - Network', 'MyIRC', sdate(07, 05, 2018), edate(27, 05, 2018)],
-    [ 'B4 - Unix Programming - Network', 'Zappy', sdate(28, 05, 2018), edate(24, 06, 2018)],
-    [ 'B4 - x86-64 Assembly', 'MiniLibC', sdate(26, 02, 2018), edate(25, 03, 2018)]
+    [ 'B4 - Unix Programming - Network', 'Zappy', sdate(28, 05, 2018), edate(24, 06, 2018)]
   ]);
 
 
