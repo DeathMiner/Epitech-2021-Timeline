@@ -37,7 +37,7 @@ function drawChart() {
     [ 'B4 - Computer Numerical Analysis - Trading', 'Trade', sdate(19, 03, 2018), edate(10, 06, 2018)],
     [ 'B4 - FR - Écrits professionnels', 'Mission délicate: recadrer un collègue', sdate(29, 01, 2018), edate(11, 02, 2018)],
     [ 'B4 - FR - Écrits professionnels', 'Diaporama pour décrocher 1 million de dollars', sdate(19, 02, 2018), edate(04, 03, 2018)],
-    [ 'B4 - FR - Écrits professionnels', 'Rediger un bilan d\'expérience', sdate(22, 01, 2018), edate(04, 03, 2018)],
+    [ 'B4 - FR - Écrits professionnels', 'Rediger un bilan d\'expérience', sdate(05, 03, 2018), edate(18, 03, 2018)],
     [ 'B4 - Mathematics', '201yams', sdate(12, 02, 2018), edate(25, 02, 2018)],
     [ 'B4 - Mathematics', '202invendus', sdate(26, 02, 2018), edate(11, 03, 2018)],
     [ 'B4 - Mathematics', '203hotline', sdate(12, 03, 2018), edate(25, 03, 2018)],
