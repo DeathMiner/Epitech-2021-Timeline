@@ -40,7 +40,7 @@ function drawChart() {
     [ 'B4 - Computer Numerical Analysis - Trading', 'Bollinger bands', sdate(05, 02, 2018), edate(18, 03, 2018)],
     [ 'B4 - Computer Numerical Analysis - Trading', 'Trade', sdate(19, 03, 2018), edate(10, 06, 2018)],
     [ 'S0 - Web Security', 'Call For Papers', sdate(05, 02, 2018), edate(25, 02, 2018)],
-    [ 'S0 - Web Security', 'SHODAN', sdate(26, 02, 2018), edate(04, 03, 2018)],
+    [ 'S0 - Web Security', 'SHODAN', sdate(26, 02, 2018), edate(12, 03, 2018)],
     [ 'B4 - Mathematics', '201yams', sdate(12, 02, 2018), edate(25, 02, 2018)],
     [ 'B4 - Mathematics', '202invendus', sdate(26, 02, 2018), edate(11, 03, 2018)],
     [ 'B4 - Mathematics', '203hotline', sdate(12, 03, 2018), edate(25, 03, 2018)],
