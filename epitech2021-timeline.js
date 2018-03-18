@@ -55,6 +55,8 @@ function drawChart() {
     [ 'B4 - Unix Programming - Concurrency', 'LemIPC', sdate(12, 03, 2018), edate(25, 03, 2018)],
     [ 'B4 - Unix Programming - Instrumentation', 'strace', sdate(26, 03, 2018), edate(08, 04, 2018)],
     [ 'B4 - Unix Programming - Instrumentation', 'ftrace', sdate(23, 04, 2018), edate(13, 05, 2018)],
+    [ 'B4 - Functional programming', 'MyDeBruijn', sdate(9, 04, 2018), edate(29, 04, 2018)],
+    [ 'B4 - Functional programming', 'Image Compressor', sdate(30, 04, 2018), edate(13, 05, 2018)],
     [ 'B4 - C++(Part II)', 'The Plazza', sdate(16, 04, 2018), edate(06, 05, 2018)],
     [ 'B4 - C++(Part II)', 'Indie Studio', sdate(07, 05, 2018), edate(10, 06, 2018)],
     [ 'B4 - Unix Programming - Network', 'MyFTP', sdate(16, 04, 2018), edate(29, 04, 2018)],
